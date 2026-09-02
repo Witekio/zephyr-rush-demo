@@ -65,8 +65,11 @@ west build --build-dir build/native -t run
 
 This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for details.
 
-### Third-party assets
+### Attribution
+
+This project uses the Quick, Draw! Dataset made available by Google, Inc. 
+under the Creative Commons Attribution 4.0 International license.
+https://creativecommons.org/licenses/by/4.0/
 
 This project uses the Gabarito font, which is licensed under the SIL Open Font License 1.1.
-
 The font license is available in `assets/fonts/OFL.txt`.
